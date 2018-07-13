@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "402311885734",
+    "firebase_url": "https://flylo-167823.firebaseio.com",
+    "project_id": "flylo-167823",
+    "storage_bucket": "flylo-167823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402311885734:android:c85ad85a7534e395",
+        "android_client_info": {
+          "package_name": "zotzp.flylo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402311885734-3iic0gobnqlrhh2qehpmht09g0i3nkoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "402311885734-4hhrt0psfirtm4uk0aujajk45amvkh34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zotzp.flylo",
+            "certificate_hash": "fab364510156dff285cfd785bc0006370901c91f"
+          }
+        },
+        {
+          "client_id": "402311885734-r20r6hkped8ch5jbtloe2uoe3os48ijg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwHZji__BBgXOEnKe8kHja4Pc_oCyNRVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402311885734-3iic0gobnqlrhh2qehpmht09g0i3nkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
